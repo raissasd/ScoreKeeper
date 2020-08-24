@@ -1,0 +1,51 @@
+#header {
+    width: 50%;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+    text-decoration: #666;
+    margin: 90px auto;
+    background-color: transparent;
+    border: none;
+}
+
+#score {
+	width: 50%;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+	text-decoration: #666;
+	margin: 90px auto;
+    background-color: transparent;
+    border: none;
+}
+
+#mode {
+	padding-bottom: 3rem;
+}
+
+button {
+	border: none;
+	color: black;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+  }
+
+#p1 {
+	background-color: cornflowerblue;
+}
+
+#p2 {
+	background-color: darkcyan;
+}
+
+#reset {
+	background-color: orange;
+}
+
+.winner {
+	color:green;
+}
